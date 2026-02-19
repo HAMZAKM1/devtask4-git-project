@@ -1,0 +1,5 @@
+# .gitignore
+*.log
+*.tmp
+.vscode/
+node_modules/
